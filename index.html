@@ -19,8 +19,6 @@
       margin-left:auto;
       margin-right:auto;
       }
-   </style>
-   <style>
       @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
    </style>
    <head>
